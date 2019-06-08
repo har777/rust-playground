@@ -1,0 +1,1 @@
+Largely following: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html with a few added features like limited guesses.
